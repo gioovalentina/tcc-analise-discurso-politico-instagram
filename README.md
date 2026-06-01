@@ -31,7 +31,6 @@ Este trabalho busca analisar o discurso político de candidatos às prefeituras 
 - Stemming
 - Frequência de termos
 - Word Clouds
-- Análise de sentimentos
 - Descoberta de subgrupos (Subgroup Discovery)
 
 
@@ -51,12 +50,7 @@ tcc-analise-discurso-politico-instagram/
 │   └── visualization/
 │
 ├── results/
-│   ├── graficos/
-│   ├── tabelas/
-│   ├── wordclouds/
-│   └── subgrupos/
-│
-├── docs/
+│   └── wordclouds/
 │
 ├── README.md
 ├── requirements.txt
@@ -68,52 +62,49 @@ A base de dados contém os textos das publicações de candidatos às prefeitura
 
 Os dados incluem:
 
-- texto das postagens;
-- candidato;
-- partido;
+- texto das postagens dos candidatos;
 - alinhamento político;
-- situação eleitoral (vencedor ou derrotado);
-- métricas textuais e categóricas.
+- situação eleitoral (vencedor ou derrotado).
 
 ## Metodologia
 
 O processo metodológico foi dividido nas seguintes etapas:
 
-1. Coleta de Dados
-
+  1. Coleta de Dados
+     
 Coleta de publicações políticas no Instagram durante campanhas eleitorais.
 
-2. Pré-processamento Textual
-
+  2. Pré-processamento Textual
+     
 Aplicação de técnicas de limpeza textual, incluindo:
+  
+  - remoção de caracteres especiais;
+  - normalização textual;
+  - tokenização;
+  - remoção de stopwords;
+  - stemming.
 
-remoção de caracteres especiais;
-normalização textual;
-tokenização;
-remoção de stopwords;
-stemming.
-
-3. Análise Exploratória
-
+  3. Análise Exploratória
+     
 Análise estatística e textual dos dados:
-
-frequência de palavras;
-termos mais utilizados;
-distribuição de categorias;
-nuvens de palavras.
-4. Processamento de Linguagem Natural
-
+  
+  - frequência de palavras;
+  - termos mais utilizados;
+  - nuvens de palavras.
+  
+  4. Processamento de Linguagem Natural
+     
 Utilização de técnicas de PLN para representação e análise textual.
 
-5. Descoberta de Subgrupos
+  5. Descoberta de Subgrupos
 
 Aplicação de algoritmos de mineração de subgrupos para identificar padrões relevantes associados a:
+  
+  - alinhamento político;
+  - vitória ou derrota eleitoral;
+  - estratégias discursivas.
 
-alinhamento político;
-vitória ou derrota eleitoral;
-estratégias discursivas.
-Resultados Esperados
-
+## Resultados Esperados
 Espera-se identificar:
 
 - diferenças discursivas entre candidatos;
