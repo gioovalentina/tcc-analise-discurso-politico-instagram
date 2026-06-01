@@ -1,0 +1,11 @@
+Top 10 termos mais frequentes:
+nao: 125.9134
+pra: 94.1199
+cidade: 91.3978
+dia: 88.3124
+vamos: 86.2708
+trabalho: 83.9820
+ja: 67.7529
+coligacao: 64.8570
+futuro: 63.9893
+vote: 60.9548

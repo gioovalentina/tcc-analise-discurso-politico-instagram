@@ -1,0 +1,11 @@
+Top 10 termos mais frequentes:
+vamos: 125.6334
+cidade: 117.0940
+pra: 111.5581
+nao: 108.2413
+dia: 102.3670
+juntos: 93.2519
+fazer: 87.2339
+gente: 84.3870
+melhor: 81.5846
+povo: 76.8170

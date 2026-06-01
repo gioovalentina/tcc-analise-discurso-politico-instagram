@@ -1,0 +1,11 @@
+Top 10 termos mais frequentes:
+juntos: 124.5239
+vamos: 113.2876
+cidade: 100.6159
+dia: 94.4069
+nao: 89.5551
+pra: 86.6630
+fazer: 85.3584
+pode: 81.9578
+esperanca: 79.1535
+federacao: 78.3876
