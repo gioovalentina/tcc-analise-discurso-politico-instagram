@@ -1,5 +1,4 @@
-# TCC
-## Análise do discurso político no Instagram
+# TCC - Análise do Discurso Político no Instagram
 
 Projeto de Trabalho de Conclusão de Curso (TCC) voltado à análise textual de publicações políticas no Instagram durante as campanhas eleitorais municipais brasileiras de 2024.
 
