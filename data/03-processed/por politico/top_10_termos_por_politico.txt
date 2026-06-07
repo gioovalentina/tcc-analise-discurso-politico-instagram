@@ -1,5 +1,5 @@
 
-🔹 Top 10 termos de sao_luis_eduardo_braide:
+Top 10 termos de sao_luis_eduardo_braide:
 
 led: 0.3145
 trabalho: 0.2647
@@ -12,7 +12,7 @@ pra: 0.1785
 parar: 0.1731
 iluminacao: 0.1723
 
-🔹 Top 10 termos de aracaju_emilia_correa:
+Top 10 termos de aracaju_emilia_correa:
 
 prefeita: 0.4264
 sistemao: 0.3937
@@ -25,7 +25,7 @@ tenis: 0.1934
 veste: 0.1830
 candidata: 0.1672
 
-🔹 Top 10 termos de natal_natalia_bonavides:
+Top 10 termos de natal_natalia_bonavides:
 
 simbora: 0.2860
 prefeita: 0.2793
@@ -38,7 +38,7 @@ gente: 0.1785
 campanha: 0.1718
 ja: 0.1718
 
-🔹 Top 10 termos de salvador_geraldo_junior:
+Top 10 termos de salvador_geraldo_junior:
 
 gente: 0.2873
 cidade: 0.2809
@@ -51,7 +51,7 @@ vamos: 0.1838
 psb: 0.1795
 psd: 0.1795
 
-🔹 Top 10 termos de teresina_fabio_novo:
+Top 10 termos de teresina_fabio_novo:
 
 vamos: 0.3149
 capital: 0.2626
@@ -64,7 +64,7 @@ todos: 0.1624
 vote: 0.1515
 reconstruir: 0.1504
 
-🔹 Top 10 termos de teresina_silvio_mendes:
+Top 10 termos de teresina_silvio_mendes:
 
 teresinenses: 0.3348
 vote: 0.2770
@@ -77,7 +77,7 @@ dia: 0.1671
 feliz: 0.1667
 nao: 0.1471
 
-🔹 Top 10 termos de recife_jc:
+Top 10 termos de recife_jc:
 
 pmb: 0.3167
 descricao: 0.2902
@@ -90,7 +90,7 @@ republicanos: 0.2301
 avante: 0.2129
 psb: 0.1983
 
-🔹 Top 10 termos de fortaleza_evandro_leitao:
+Top 10 termos de fortaleza_evandro_leitao:
 
 ptpcdobpvpppsdpsbrepublicanosmdb: 0.3720
 federacao: 0.3607
@@ -103,7 +103,7 @@ esperanca: 0.2209
 brasil: 0.2148
 mostra: 0.1849
 
-🔹 Top 10 termos de salvador_bruno_reis:
+Top 10 termos de salvador_bruno_reis:
 
 ubpdtmobilizaprtbfederacao: 0.5778
 cidadaniapmbrepublicanospldcprdnovopp: 0.5700
@@ -116,7 +116,7 @@ cidade: 0.0564
 bora: 0.0431
 melhor: 0.0373
 
-🔹 Top 10 termos de fortaleza_andre_fernandes:
+Top 10 termos de fortaleza_andre_fernandes:
 
 liberal: 0.7443
 cnpj: 0.4401
@@ -129,7 +129,7 @@ vota: 0.0692
 ja: 0.0655
 nao: 0.0655
 
-🔹 Top 10 termos de joao_pessoa_cicero_lucena:
+Top 10 termos de joao_pessoa_cicero_lucena:
 
 certo: 0.2893
 caminho: 0.2774
@@ -142,7 +142,7 @@ ja: 0.1506
 pra: 0.1489
 dia: 0.1472
 
-🔹 Top 10 termos de maceio_rafael_brito:
+Top 10 termos de maceio_rafael_brito:
 
 levada: 0.5608
 serio: 0.2912
@@ -155,7 +155,7 @@ verdade: 0.1694
 todos: 0.1456
 dia: 0.1428
 
-🔹 Top 10 termos de salvador_kleber_rosa:
+Top 10 termos de salvador_kleber_rosa:
 
 mira: 0.5694
 psol: 0.4216
@@ -168,7 +168,7 @@ eleicao: 0.1608
 prefeito: 0.1596
 povo: 0.0961
 
-🔹 Top 10 termos de joao_pessoa_luciano_cartaxo:
+Top 10 termos de joao_pessoa_luciano_cartaxo:
 
 vamos: 0.3589
 cidade: 0.3050
@@ -181,7 +181,7 @@ povo: 0.1830
 ainda: 0.1468
 ja: 0.1292
 
-🔹 Top 10 termos de maceio_jhc:
+Top 10 termos de maceio_jhc:
 
 pra: 0.4507
 nao: 0.3020
@@ -194,7 +194,7 @@ aqui: 0.1397
 ai: 0.1371
 vem: 0.1352
 
-🔹 Top 10 termos de aracaju_luiz_roberto:
+Top 10 termos de aracaju_luiz_roberto:
 
 avancar: 0.3319
 cidade: 0.2584
@@ -207,7 +207,7 @@ fazer: 0.1655
 cada: 0.1619
 ainda: 0.1574
 
-🔹 Top 10 termos de joao_pessoa_marcelo_queiroga:
+Top 10 termos de joao_pessoa_marcelo_queiroga:
 
 queiroz: 0.6557
 bolsonaro: 0.2217
@@ -220,7 +220,7 @@ sergio: 0.1430
 voce: 0.1393
 mudar: 0.1346
 
-🔹 Top 10 termos de sao_luis_duarte_jr:
+Top 10 termos de sao_luis_duarte_jr:
 
 agora: 0.3658
 vamos: 0.2897
@@ -233,7 +233,7 @@ prefeito: 0.1671
 obrigado: 0.1557
 cidade: 0.1449
 
-🔹 Top 10 termos de recife_gmn:
+Top 10 termos de recife_gmn:
 
 pl: 0.5067
 ordem: 0.4308
@@ -246,7 +246,7 @@ vamos: 0.0900
 bolsonaro: 0.0887
 cidade: 0.0787
 
-🔹 Top 10 termos de natal_paulinho_freire:
+Top 10 termos de natal_paulinho_freire:
 
 dia: 0.2963
 futuro: 0.2941
