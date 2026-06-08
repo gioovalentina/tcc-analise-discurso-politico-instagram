@@ -1,11 +1,11 @@
 Top 10 termos mais frequentes:
-nao: 134.7818
-juntos: 114.2497
-cidade: 104.7046
-pra: 103.0540
-dia: 101.0704
-coligacao: 96.5494
-vamos: 96.4334
-trabalho: 94.9447
-pode: 83.3585
-brasil: 77.9604
+nao (134.782)
+juntos (114.250)
+cidade (104.705)
+pra (103.054)
+dia (101.070)
+coligacao (96.549)
+vamos (96.433)
+trabalho (94.945)
+pode (83.358)
+brasil (77.960)

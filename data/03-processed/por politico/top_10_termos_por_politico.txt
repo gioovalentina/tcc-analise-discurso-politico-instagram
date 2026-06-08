@@ -1,260 +1,234 @@
 
-Top 10 termos de sao_luis_eduardo_braide:
-
-led: 0.3145
-trabalho: 0.2647
-nao: 0.2462
-asfalto: 0.2388
-ja: 0.2155
-vila: 0.2038
-cidade: 0.2032
-pra: 0.1785
-parar: 0.1731
-iluminacao: 0.1723
-
 Top 10 termos de aracaju_emilia_correa:
 
-prefeita: 0.4264
-sistemao: 0.3937
-calca: 0.3241
-blusa: 0.2206
-ricardo: 0.2189
-basta: 0.2003
-jeans: 0.1945
-tenis: 0.1934
-veste: 0.1830
-candidata: 0.1672
-
-Top 10 termos de natal_natalia_bonavides:
-
-simbora: 0.2860
-prefeita: 0.2793
-nao: 0.2585
-cidade: 0.2469
-pra: 0.2318
-povo: 0.1868
-fazer: 0.1819
-gente: 0.1785
-campanha: 0.1718
-ja: 0.1718
-
-Top 10 termos de salvador_geraldo_junior:
-
-gente: 0.2873
-cidade: 0.2809
-pra: 0.2732
-bpv: 0.2520
-ptpc: 0.2520
-brasil: 0.1982
-avante: 0.1927
-vamos: 0.1838
-psb: 0.1795
-psd: 0.1795
-
-Top 10 termos de teresina_fabio_novo:
-
-vamos: 0.3149
-capital: 0.2626
-juntos: 0.2522
-dia: 0.2411
-futuro: 0.2084
-melhor: 0.1987
-fazer: 0.1716
-todos: 0.1624
-vote: 0.1515
-reconstruir: 0.1504
-
-Top 10 termos de teresina_silvio_mendes:
-
-teresinenses: 0.3348
-vote: 0.2770
-vamos: 0.2095
-voltar: 0.1906
-cidade: 0.1894
-pra: 0.1894
-vila: 0.1863
-dia: 0.1671
-feliz: 0.1667
-nao: 0.1471
-
-Top 10 termos de recife_jc:
-
-pmb: 0.3167
-descricao: 0.2902
-dc: 0.2512
-pcdob: 0.2512
-pv: 0.2512
-victor: 0.2403
-marques: 0.2318
-republicanos: 0.2301
-avante: 0.2129
-psb: 0.1983
-
-Top 10 termos de fortaleza_evandro_leitao:
-
-ptpcdobpvpppsdpsbrepublicanosmdb: 0.3720
-federacao: 0.3607
-juntos: 0.3118
-coligacao: 0.2770
-ptpcdobpv: 0.2628
-pppsdpsbrepublicanosmdb: 0.2603
-pode: 0.2389
-esperanca: 0.2209
-brasil: 0.2148
-mostra: 0.1849
-
-Top 10 termos de salvador_bruno_reis:
-
-ubpdtmobilizaprtbfederacao: 0.5778
-cidadaniapmbrepublicanospldcprdnovopp: 0.5700
-psdb: 0.3849
-coligacao: 0.2423
-nao: 0.2304
-trabalho: 0.2189
-pra: 0.0580
-cidade: 0.0564
-bora: 0.0431
-melhor: 0.0373
-
-Top 10 termos de fortaleza_andre_fernandes:
-
-liberal: 0.7443
-cnpj: 0.4401
-partido: 0.3940
-mudar: 0.1080
-povo: 0.1029
-pra: 0.1029
-coragem: 0.0714
-vota: 0.0692
-ja: 0.0655
-nao: 0.0655
-
-Top 10 termos de joao_pessoa_cicero_lucena:
-
-certo: 0.2893
-caminho: 0.2774
-cidade: 0.2758
-avancando: 0.2704
-seguir: 0.2254
-gente: 0.2251
-vamos: 0.1845
-ja: 0.1506
-pra: 0.1489
-dia: 0.1472
-
-Top 10 termos de maceio_rafael_brito:
-
-levada: 0.5608
-serio: 0.2912
-vms: 0.2909
-pra: 0.2016
-vamos: 0.1792
-juntos: 0.1708
-contem: 0.1707
-verdade: 0.1694
-todos: 0.1456
-dia: 0.1428
-
-Top 10 termos de salvador_kleber_rosa:
-
-mira: 0.5694
-psol: 0.4216
-federacao: 0.3106
-dona: 0.2982
-cnpj: 0.2929
-vice: 0.2103
-rede: 0.1774
-eleicao: 0.1608
-prefeito: 0.1596
-povo: 0.0961
-
-Top 10 termos de joao_pessoa_luciano_cartaxo:
-
-vamos: 0.3589
-cidade: 0.3050
-fazer: 0.2860
-melhor: 0.2597
-nao: 0.2189
-gestao: 0.2108
-juntos: 0.1830
-povo: 0.1830
-ainda: 0.1468
-ja: 0.1292
-
-Top 10 termos de maceio_jhc:
-
-pra: 0.4507
-nao: 0.3020
-trabalho: 0.2978
-vai: 0.2524
-ta: 0.2316
-ja: 0.1668
-gente: 0.1532
-aqui: 0.1397
-ai: 0.1371
-vem: 0.1352
+prefeita (0.420)
+sistemao (0.391)
+calca (0.321)
+blusa (0.218)
+ricardo (0.216)
+basta (0.206)
+jeans (0.192)
+tenis (0.191)
+veste (0.181)
+candidata (0.180)
 
 Top 10 termos de aracaju_luiz_roberto:
 
-avancar: 0.3319
-cidade: 0.2584
-vamos: 0.2576
-pra: 0.1893
-dia: 0.1842
-fabiano: 0.1834
-nao: 0.1723
-fazer: 0.1655
-cada: 0.1619
-ainda: 0.1574
+avancar (0.323)
+cidade (0.259)
+vamos (0.258)
+pra (0.190)
+dia (0.185)
+fabiano (0.178)
+nao (0.173)
+fazer (0.167)
+cada (0.163)
+ainda (0.159)
 
-Top 10 termos de joao_pessoa_marcelo_queiroga:
+Top 10 termos de fortaleza_andre_fernandes:
 
-queiroz: 0.6557
-bolsonaro: 0.2217
-nao: 0.2089
-saude: 0.1890
-cidade: 0.1771
-vamos: 0.1726
-verdade: 0.1566
-sergio: 0.1430
-voce: 0.1393
-mudar: 0.1346
+liberal (0.726)
+cnpj (0.446)
+partido (0.419)
+mudar (0.111)
+povo (0.104)
+pra (0.104)
+coragem (0.074)
+vota (0.073)
+candidato (0.066)
+ja (0.066)
 
-Top 10 termos de sao_luis_duarte_jr:
+Top 10 termos de fortaleza_evandro_leitao:
 
-agora: 0.3658
-vamos: 0.2897
-resolver: 0.2239
-vez: 0.2137
-juntos: 0.1847
-todos: 0.1811
-federacao: 0.1739
-prefeito: 0.1671
-obrigado: 0.1557
-cidade: 0.1449
+federacao (0.365)
+ptpcdobpvpppsdpsbrepublicanosmdb (0.362)
+juntos (0.313)
+coligacao (0.288)
+ptpcdobpv (0.256)
+pppsdpsbrepublicanosmdb (0.253)
+pode (0.240)
+esperanca (0.222)
+brasil (0.216)
+mostra (0.192)
 
-Top 10 termos de recife_gmn:
+Top 10 termos de maceio_jhc:
 
-pl: 0.5067
-ordem: 0.4308
-cnpj: 0.3722
-progresso: 0.3688
-coligacao: 0.2806
-precisa: 0.2278
-nao: 0.1462
-vamos: 0.0900
-bolsonaro: 0.0887
-cidade: 0.0787
+pra (0.448)
+nao (0.300)
+trabalho (0.298)
+vai (0.251)
+ta (0.232)
+ja (0.166)
+gente (0.152)
+aqui (0.139)
+ai (0.137)
+vem (0.135)
+
+Top 10 termos de maceio_rafael_brito:
+
+levada (0.549)
+serio (0.290)
+vms (0.286)
+pra (0.204)
+vamos (0.182)
+verdade (0.173)
+juntos (0.173)
+contem (0.164)
+todos (0.148)
+dia (0.145)
+
+Top 10 termos de natal_natalia_bonavides:
+
+simbora (0.281)
+prefeita (0.269)
+nao (0.259)
+cidade (0.247)
+pra (0.232)
+povo (0.187)
+fazer (0.183)
+gente (0.179)
+campanha (0.172)
+ja (0.172)
 
 Top 10 termos de natal_paulinho_freire:
 
-dia: 0.2963
-futuro: 0.2941
-vamos: 0.2847
-cidade: 0.2616
-outubro: 0.2101
-juntos: 0.1829
-pra: 0.1829
-frente: 0.1690
-natalense: 0.1671
-nao: 0.1574
+futuro (0.297)
+dia (0.296)
+vamos (0.285)
+cidade (0.262)
+outubro (0.212)
+juntos (0.183)
+pra (0.183)
+frente (0.169)
+natalense (0.161)
+nao (0.157)
+
+Top 10 termos de recife_gmn:
+
+pl (0.522)
+ordem (0.407)
+cnpj (0.371)
+progresso (0.370)
+coligacao (0.289)
+precisa (0.226)
+nao (0.145)
+bolsonaro (0.091)
+vamos (0.089)
+cidade (0.078)
+
+Top 10 termos de recife_jc:
+
+pmb (0.308)
+descricao (0.280)
+victor (0.254)
+dc (0.243)
+pcdob (0.243)
+pv (0.243)
+marques (0.223)
+avante (0.222)
+republicanos (0.222)
+mdb (0.204)
+
+Top 10 termos de salvador_bruno_reis:
+
+ubpdtmobilizaprtbfederacao (0.574)
+cidadaniapmbrepublicanospldcprdnovopp (0.566)
+psdb (0.377)
+coligacao (0.258)
+nao (0.236)
+trabalho (0.225)
+pra (0.059)
+cidade (0.058)
+bora (0.043)
+melhor (0.038)
+
+Top 10 termos de salvador_kleber_rosa:
+
+mira (0.545)
+psol (0.441)
+federacao (0.312)
+dona (0.308)
+cnpj (0.292)
+vice (0.219)
+rede (0.177)
+eleicao (0.162)
+prefeito (0.160)
+povo (0.096)
+
+Top 10 termos de teresina_fabio_novo:
+
+vamos (0.314)
+capital (0.266)
+juntos (0.251)
+dia (0.240)
+futuro (0.210)
+melhor (0.199)
+fazer (0.172)
+todos (0.162)
+vote (0.153)
+reconstruir (0.144)
+
+Top 10 termos de teresina_silvio_mendes:
+
+teresinenses (0.322)
+vote (0.279)
+vamos (0.209)
+cidade (0.189)
+pra (0.189)
+voltar (0.186)
+vila (0.175)
+dia (0.167)
+feliz (0.159)
+nao (0.147)
+
+Top 10 termos de joao_pessoa_cicero_lucena:
+
+certo (0.288)
+caminho (0.277)
+cidade (0.273)
+avancando (0.250)
+seguir (0.224)
+gente (0.223)
+vamos (0.183)
+ja (0.149)
+pra (0.147)
+futuro (0.147)
+
+Top 10 termos de joao_pessoa_luciano_cartaxo:
+
+vamos (0.358)
+cidade (0.304)
+fazer (0.286)
+melhor (0.260)
+nao (0.218)
+gestao (0.211)
+juntos (0.182)
+povo (0.182)
+ainda (0.147)
+ja (0.129)
+
+Top 10 termos de sao_luis_duarte_jr:
+
+agora (0.364)
+vamos (0.289)
+resolver (0.232)
+vez (0.213)
+juntos (0.184)
+todos (0.180)
+federacao (0.175)
+prefeito (0.167)
+obrigado (0.155)
+cidade (0.144)
+
+Top 10 termos de sao_luis_eduardo_braide:
+
+led (0.321)
+trabalho (0.267)
+nao (0.247)
+asfalto (0.226)
+ja (0.216)
+cidade (0.204)
+vila (0.192)
+parar (0.181)
+pra (0.179)
+iluminacao (0.172)
