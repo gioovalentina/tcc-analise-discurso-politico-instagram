@@ -156,7 +156,7 @@ O projeto fundamenta-se em pesquisas nas áreas de:
 - Análise de Discurso Político.
 
 ## Autor
-Giovanna Valentina Esteves
+Giovanna Valentina de Andrade
 
 Graduanda em Sistemas de Informação — Universidade de Pernambuco (UPE)
 
